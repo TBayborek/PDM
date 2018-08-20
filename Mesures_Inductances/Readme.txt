@@ -1,0 +1,1 @@
+Current step response to 1 or 2V, used to extract inductances
